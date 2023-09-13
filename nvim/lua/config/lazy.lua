@@ -20,6 +20,8 @@ require("lazy").setup({
     "c9s/treemenu.vim",
     "jeroenbrons/nvim-vikube.vim",
     "mfussenegger/nvim-ansible",
+    "ansible/ansible-language-server",
+    "pearofducks/ansible-vim",
     -- import any extras modules here
     -- { import = "lazyvim.plugins.extras.lang.typescript" },
     -- { import = "lazyvim.plugins.extras.lang.json" },
